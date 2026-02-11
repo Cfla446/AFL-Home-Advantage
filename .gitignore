@@ -1,0 +1,6 @@
+# Used to ignore virtual environments, cache files, etc. when connecting to git
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env

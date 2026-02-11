@@ -1,0 +1,2 @@
+pandas
+lxml # used by pd.read_html
