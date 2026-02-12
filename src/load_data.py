@@ -18,6 +18,10 @@ def main():
     if match_tables:
         print(match_tables[0])
 
+    total_matches = pd.DataFrame(match_tables)
+    total_matches.to_csv("../data/matches_2025.csv", index = False) # index false means row labels/no.s will not be included as an exxtra initial column
+    print("Successfully cleaned and stored 2025 season match data")
+
 def is_match(df):
     match_list = []
 
