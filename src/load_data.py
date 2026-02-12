@@ -8,9 +8,11 @@ def main():
     print(f"Number of tables found: {len(tables)}")
     match_tables = []
     for df in tables:
-        matches_in_df = is_match(df)
-        if matches_in_df:
-            match_tables.extend(matches_in_df)
+        matches = is_match(df)
+
+        for match in matches:
+            match_info = parse_match_info(match)
+            match_tables.append(match_info)
     
     print(f"Total matches: {len(match_tables)}")
     if match_tables:
@@ -31,6 +33,43 @@ def is_match(df):
             match_list.append(chunk)
 
     return match_list
+
+def parse_match_info(df):
+    # While we could parse the string in the formatting of the data with 'X won by Y points'
+    # It is more structured to to view the two empirical values to determine the winner and loser
+    # data integrity, validating rather than trusting
+
+    team1 = df.iloc[0]
+    team2 = df.iloc[1]
+
+    team1_name = team1[0]
+    team2_name = team2[0]
+
+    team1_score = int(team1[2])
+    team2_score = int(team2[2])
+
+    string = df.iloc[0, 3]
+    venue = string.split("Venue:")[-1].strip()
+
+    if team1_score > team2_score:
+        winner = team1_name
+        margin = team1_score - team2_score
+    elif team2_score > team1_score:
+        winner = team2_name
+        margin = team2_score - team1_score
+    else:
+        winner = None
+        margin = 0
+    
+    return {
+        'team1': team1_name,
+        'team2': team2_name,
+        'score1': team1_score,
+        'score2': team2_score,
+        'winner': winner,
+        'win_margin': margin,
+        'venue': venue
+    }
 
 if __name__ == "__main__":
     main()
