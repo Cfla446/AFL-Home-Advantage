@@ -8,3 +8,8 @@ Stage 1:
 - Gather HTML data from 'https://afltables.com' and extract results using pandas python extension.
 - Clean 2025 season data by isolating individual matches and relevant information.
 - Validate possible matches using structural logic.
+- Identify relevant fields/data from each isolated dataframe, extracting data in a structured manner.
+
+Stage 2: 
+- Store data into a CSV
+- access CSV data to perform simple analysis on cumulative total win rate
