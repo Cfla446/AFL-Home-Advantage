@@ -13,3 +13,7 @@ Stage 1:
 Stage 2: 
 - Store data into a CSV
 - access CSV data to perform simple analysis on cumulative total win rate
+- Explore team-centric and venue-centric home win rates and compute initial results
+
+Stage 3:
+- Expand scope to include all available seasonal data
