@@ -1,8 +1,7 @@
 import pandas as pd
 from scipy.stats import binomtest
 
-def main():
-    df = pd.read_csv("data/matches_2025.csv")
+def main(df):
     df["home_win"] = df["winner"] == df["team1"] # creating column that stores boolean
 
     total_games = len(df)

@@ -1,9 +1,12 @@
 import pandas as pd
+import os
 
-url = "https://afltables.com/afl/seas/2025.html"
+# Ensuring path is set relative/absolute
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(BASE_DIR, "data")
 
-
-def main():
+def operate_on_season(year):
+    url = f"https://afltables.com/afl/seas/{year}.html"
     tables = pd.read_html(url) # returns a list of tables, each element in list is one HTML, not one match or row
     print(f"Number of tables found: {len(tables)}")
     match_tables = []
@@ -16,11 +19,17 @@ def main():
     
     print(f"Total matches: {len(match_tables)}")
     if match_tables:
-        print(match_tables[0])
+        df_matches = pd.DataFrame(match_tables) # 
+        os.makedirs("DATA_DIR", exist_ok=True) # 
+        df_matches.to_csv(os.path.join(DATA_DIR, f"matches_{year}.csv"), index = False) # 
+        print(f"{year}: {len(df_matches)} matches cleaned  and stored.") # 
+        return df_matches # 
+        # print(match_tables[0])
 
-    total_matches = pd.DataFrame(match_tables)
-    total_matches.to_csv("data/matches_2025.csv", index = False) # index false means row labels/no.s will not be included as an exxtra initial column
-    print("Successfully cleaned and stored 2025 season match data")
+    # total_matches = pd.DataFrame(match_tables)
+    # total_matches.to_csv("data/matches_2025.csv", index = False) # index false means row labels/no.s will not be included as an exxtra initial column
+    # print("Successfully cleaned and stored 2025 season match data")
+    return pd.DataFrame() # 
 
 def is_match(df):
     match_list = []
@@ -72,8 +81,18 @@ def parse_match_info(df):
         'score2': team2_score,
         'winner': winner,
         'win_margin': margin,
-        'venue': venue
+        'venue': venue,
     }
 
+def main(start_year, end_year):
+    all_seasons = [] # each entry will be a seasons dataframe
+    for year in range(start_year, end_year + 1):
+        df_season = operate_on_season(year) # scraper and save to csv, returns dataframe for that year
+        if not df_season.empty:
+            all_seasons.append(df_season) # append season to list
+    if all_seasons: # if contains at least one dataframe
+        return pd.concat(all_seasons, ignore_index=True) # stacks DF vertically, ignoring index means row indicies from each DF are preserved (doesnt just append to the list)
+    return pd.DataFrame() # only executes in the case that no data
+
 if __name__ == "__main__":
-    main()
+    main(1897, 2025)
