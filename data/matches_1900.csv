@@ -1,0 +1,71 @@
+team1,team2,score1,score2,winner,win_margin,venue
+Carlton,Geelong,18,35,Geelong,17,Princes Park
+Collingwood,Fitzroy,67,46,Collingwood,21,Victoria Park
+Essendon,South Melbourne,82,26,Essendon,56,East Melbourne
+St Kilda,Melbourne,68,67,St Kilda,1,Junction Oval
+Fitzroy,Carlton,34,10,Fitzroy,24,Brunswick St
+Geelong,Collingwood,57,35,Geelong,22,Corio Oval
+Melbourne,Essendon,34,18,Melbourne,16,M.C.G.
+South Melbourne,St Kilda,57,25,South Melbourne,32,Lake Oval
+Carlton,Melbourne,42,22,Carlton,20,Princes Park
+Collingwood,South Melbourne,45,25,Collingwood,20,Victoria Park
+Essendon,Fitzroy,33,27,Essendon,6,East Melbourne
+St Kilda,Geelong,18,58,Geelong,40,Junction Oval
+Essendon,Collingwood,85,16,Essendon,69,East Melbourne
+St Kilda,Carlton,18,27,Carlton,9,Junction Oval
+Fitzroy,South Melbourne,55,22,Fitzroy,33,Brunswick St
+Geelong,Melbourne,81,15,Geelong,66,Corio Oval
+Carlton,Essendon,18,23,Essendon,5,Princes Park
+Collingwood,St Kilda,65,19,Collingwood,46,Victoria Park
+Melbourne,Fitzroy,27,66,Fitzroy,39,M.C.G.
+South Melbourne,Geelong,37,23,South Melbourne,14,Lake Oval
+Carlton,Collingwood,25,9,Carlton,16,Princes Park
+St Kilda,Essendon,18,29,Essendon,11,Junction Oval
+South Melbourne,Melbourne,44,41,South Melbourne,3,Lake Oval
+Fitzroy,Geelong,46,12,Fitzroy,34,Brunswick St
+South Melbourne,Carlton,30,18,South Melbourne,12,Lake Oval
+Melbourne,Collingwood,66,37,Melbourne,29,M.C.G.
+Geelong,Essendon,53,31,Geelong,22,Corio Oval
+Fitzroy,St Kilda,116,17,Fitzroy,99,Brunswick St
+Geelong,Carlton,39,31,Geelong,8,Corio Oval
+Fitzroy,Collingwood,42,20,Fitzroy,22,Brunswick St
+South Melbourne,Essendon,38,10,South Melbourne,28,Lake Oval
+Melbourne,St Kilda,108,29,Melbourne,79,M.C.G.
+Carlton,Fitzroy,15,53,Fitzroy,38,Princes Park
+Collingwood,Geelong,42,23,Collingwood,19,Victoria Park
+Essendon,Melbourne,18,44,Melbourne,26,East Melbourne
+St Kilda,South Melbourne,11,52,South Melbourne,41,Junction Oval
+Melbourne,Carlton,68,33,Melbourne,35,M.C.G.
+South Melbourne,Collingwood,26,24,South Melbourne,2,Lake Oval
+Fitzroy,Essendon,54,40,Fitzroy,14,Brunswick St
+Geelong,St Kilda,86,28,Geelong,58,Corio Oval
+Carlton,St Kilda,49,28,Carlton,21,Princes Park
+Collingwood,Essendon,50,29,Collingwood,21,Victoria Park
+South Melbourne,Fitzroy,33,39,Fitzroy,6,Lake Oval
+Melbourne,Geelong,40,29,Melbourne,11,M.C.G.
+Essendon,Carlton,84,35,Essendon,49,East Melbourne
+St Kilda,Collingwood,23,48,Collingwood,25,Junction Oval
+Fitzroy,Melbourne,57,32,Fitzroy,25,Brunswick St
+Geelong,South Melbourne,70,24,Geelong,46,Corio Oval
+Collingwood,Carlton,96,28,Collingwood,68,Victoria Park
+Essendon,St Kilda,117,25,Essendon,92,East Melbourne
+Geelong,Fitzroy,57,12,Geelong,45,Corio Oval
+Melbourne,South Melbourne,44,48,South Melbourne,4,M.C.G.
+Carlton,South Melbourne,45,19,Carlton,26,Princes Park
+Collingwood,Melbourne,73,46,Collingwood,27,Victoria Park
+Essendon,Geelong,67,47,Essendon,20,East Melbourne
+St Kilda,Fitzroy,49,82,Fitzroy,33,Junction Oval
+Fitzroy,Carlton,67,38,Fitzroy,29,Brunswick St
+Collingwood,St Kilda,68,9,Collingwood,59,Victoria Park
+South Melbourne,Essendon,19,59,Essendon,40,Lake Oval
+Melbourne,Geelong,45,28,Melbourne,17,East Melbourne
+Carlton,South Melbourne,31,30,Carlton,1,Princes Park
+Geelong,Collingwood,44,31,Geelong,13,Corio Oval
+Essendon,Fitzroy,39,36,Essendon,3,East Melbourne
+St Kilda,Melbourne,15,86,Melbourne,71,Junction Oval
+Essendon,Carlton,95,10,Essendon,85,East Melbourne
+Melbourne,Collingwood,24,30,Collingwood,6,Lake Oval
+Fitzroy,South Melbourne,51,20,Fitzroy,31,Brunswick St
+St Kilda,Geelong,39,57,Geelong,18,Junction Oval
+Essendon,Melbourne,43,45,Melbourne,2,Lake Oval
+Fitzroy,Melbourne,30,34,Melbourne,4,East Melbourne

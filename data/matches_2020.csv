@@ -1,0 +1,161 @@
+team1,team2,score1,score2,winner,win_margin,venue
+Richmond,Carlton,105,81,Richmond,24,M.C.G.
+Western Bulldogs,Collingwood,34,86,Collingwood,52,Docklands
+Essendon,Fremantle,63,57,Essendon,6,Docklands
+Adelaide,Sydney,71,74,Sydney,3,Adelaide Oval
+Gold Coast,Port Adelaide,29,76,Port Adelaide,47,Carrara
+Greater Western Sydney,Geelong,105,73,Greater Western Sydney,32,Sydney Showground
+North Melbourne,St Kilda,56,54,North Melbourne,2,Docklands
+Hawthorn,Brisbane Lions,90,62,Hawthorn,28,M.C.G.
+West Coast,Melbourne,78,51,West Coast,27,Perth Stadium
+Geelong,Hawthorn,108,47,Geelong,61,Kardinia Park
+Brisbane Lions,Fremantle,81,69,Brisbane Lions,12,Gabba
+Carlton,Melbourne,53,54,Melbourne,1,Docklands
+Port Adelaide,Adelaide,110,35,Port Adelaide,75,Adelaide Oval
+Gold Coast,West Coast,90,46,Gold Coast,44,Carrara
+Greater Western Sydney,North Melbourne,60,80,North Melbourne,20,Sydney Showground
+Sydney,Essendon,73,79,Essendon,6,S.C.G.
+St Kilda,Western Bulldogs,88,49,St Kilda,39,Docklands
+Richmond,Hawthorn,39,71,Hawthorn,32,M.C.G.
+Western Bulldogs,Greater Western Sydney,57,33,Western Bulldogs,24,Docklands
+North Melbourne,Sydney,60,71,Sydney,11,Docklands
+Collingwood,St Kilda,81,37,Collingwood,44,M.C.G.
+Geelong,Carlton,77,79,Carlton,2,Kardinia Park
+Brisbane Lions,West Coast,74,44,Brisbane Lions,30,Gabba
+Gold Coast,Adelaide,82,29,Gold Coast,53,Carrara
+Fremantle,Port Adelaide,41,70,Port Adelaide,29,Carrara
+Sydney,Western Bulldogs,39,67,Western Bulldogs,28,S.C.G.
+Greater Western Sydney,Collingwood,66,64,Greater Western Sydney,2,Sydney Showground
+Port Adelaide,West Coast,89,41,Port Adelaide,48,Carrara
+St Kilda,Richmond,93,67,St Kilda,26,Docklands
+Essendon,Carlton,51,52,Carlton,1,M.C.G.
+Gold Coast,Fremantle,64,51,Gold Coast,13,Carrara
+Brisbane Lions,Adelaide,83,46,Brisbane Lions,37,Gabba
+Melbourne,Geelong,44,47,Geelong,3,M.C.G.
+Hawthorn,North Melbourne,58,54,Hawthorn,4,Docklands
+Carlton,St Kilda,55,73,St Kilda,18,Docklands
+Collingwood,Essendon,48,63,Essendon,15,M.C.G.
+West Coast,Sydney,77,43,West Coast,34,Carrara
+Geelong,Gold Coast,89,52,Geelong,37,Kardinia Park
+Western Bulldogs,North Melbourne,87,38,Western Bulldogs,49,Docklands
+Brisbane Lions,Port Adelaide,85,48,Brisbane Lions,37,Gabba
+Adelaide,Fremantle,34,54,Fremantle,20,Carrara
+Melbourne,Richmond,52,79,Richmond,27,M.C.G.
+Greater Western Sydney,Hawthorn,83,49,Greater Western Sydney,34,Sydney Showground
+Geelong,Brisbane Lions,73,46,Geelong,27,S.C.G.
+Collingwood,Hawthorn,59,27,Collingwood,32,Sydney Showground
+Fremantle,St Kilda,79,73,Fremantle,6,Carrara
+West Coast,Adelaide,67,34,West Coast,33,Gabba
+Melbourne,Gold Coast,80,63,Melbourne,17,Sydney Showground
+Essendon,North Melbourne,67,53,Essendon,14,Carrara
+Port Adelaide,Greater Western Sydney,63,46,Port Adelaide,17,Carrara
+Richmond,Sydney,34,26,Richmond,8,Gabba
+Carlton,Western Bulldogs,103,51,Carlton,52,Carrara
+Geelong,Collingwood,35,57,Collingwood,22,Perth Stadium
+Essendon,Western Bulldogs,51,93,Western Bulldogs,42,Carrara
+Greater Western Sydney,Brisbane Lions,68,88,Brisbane Lions,20,Sydney Showground
+Sydney,Gold Coast,60,92,Gold Coast,32,S.C.G.
+Richmond,North Melbourne,77,23,Richmond,54,Carrara
+Carlton,Port Adelaide,61,64,Port Adelaide,3,Gabba
+Hawthorn,Melbourne,48,91,Melbourne,43,Sydney Showground
+Fremantle,West Coast,32,62,West Coast,30,Perth Stadium
+Adelaide,St Kilda,55,78,St Kilda,23,Adelaide Oval
+Gold Coast,Western Bulldogs,46,51,Western Bulldogs,5,Carrara
+Greater Western Sydney,Richmond,62,50,Greater Western Sydney,12,Sydney Showground
+North Melbourne,Carlton,57,64,Carlton,7,Gabba
+Sydney,Hawthorn,60,53,Sydney,7,S.C.G.
+Port Adelaide,St Kilda,44,73,St Kilda,29,Adelaide Oval
+Adelaide,Essendon,59,62,Essendon,3,Adelaide Oval
+West Coast,Collingwood,111,45,West Coast,66,Perth Stadium
+Melbourne,Brisbane Lions,49,53,Brisbane Lions,4,Carrara
+Fremantle,Geelong,16,48,Geelong,32,Perth Stadium
+Western Bulldogs,Richmond,49,90,Richmond,41,Carrara
+Melbourne,Port Adelaide,32,83,Port Adelaide,51,Gabba
+Carlton,Hawthorn,58,89,Hawthorn,31,Perth Stadium
+Essendon,Brisbane Lions,28,91,Brisbane Lions,63,Carrara
+North Melbourne,Adelaide,119,50,North Melbourne,69,Carrara
+St Kilda,Sydney,101,48,St Kilda,53,Gabba
+West Coast,Geelong,73,64,West Coast,9,Perth Stadium
+Gold Coast,Greater Western Sydney,35,61,Greater Western Sydney,26,Carrara
+Fremantle,Collingwood,61,49,Fremantle,12,Perth Stadium
+Port Adelaide,Western Bulldogs,55,42,Port Adelaide,13,Adelaide Oval
+Richmond,Brisbane Lions,82,41,Richmond,41,Carrara
+Geelong,North Melbourne,90,57,Geelong,33,Gabba
+Adelaide,Melbourne,37,88,Melbourne,51,Adelaide Oval
+Collingwood,Sydney,50,41,Collingwood,9,Gabba
+Gold Coast,St Kilda,74,78,St Kilda,4,Carrara
+Essendon,Greater Western Sydney,55,59,Greater Western Sydney,4,Carrara
+Port Adelaide,Richmond,93,72,Port Adelaide,21,Adelaide Oval
+Brisbane Lions,Western Bulldogs,96,72,Brisbane Lions,24,Gabba
+West Coast,Carlton,72,50,West Coast,22,Perth Stadium
+Melbourne,North Melbourne,92,35,Melbourne,57,Adelaide Oval
+St Kilda,Geelong,34,93,Geelong,59,Gabba
+Fremantle,Hawthorn,48,32,Fremantle,16,Perth Stadium
+Adelaide,Collingwood,38,62,Collingwood,24,Adelaide Oval
+Sydney,Greater Western Sydney,66,25,Sydney,41,Perth Stadium
+Geelong,Port Adelaide,91,31,Geelong,60,Carrara
+North Melbourne,Brisbane Lions,52,53,Brisbane Lions,1,Carrara
+Melbourne,Collingwood,100,44,Melbourne,56,Gabba
+Fremantle,Carlton,36,40,Carlton,4,Perth Stadium
+Western Bulldogs,Adelaide,111,54,Western Bulldogs,57,Carrara
+St Kilda,Essendon,68,33,St Kilda,35,Gabba
+West Coast,Hawthorn,81,49,West Coast,32,Perth Stadium
+Richmond,Gold Coast,53,32,Richmond,21,Gabba
+Gold Coast,Carlton,27,60,Carlton,33,Marrara Oval
+Western Bulldogs,Melbourne,80,52,Western Bulldogs,28,Carrara
+Port Adelaide,Hawthorn,68,58,Port Adelaide,10,Adelaide Oval
+Essendon,Richmond,61,73,Richmond,12,Marrara Oval
+Fremantle,Sydney,50,19,Fremantle,31,Perth Stadium
+Adelaide,Geelong,37,65,Geelong,28,Adelaide Oval
+Brisbane Lions,St Kilda,50,48,Brisbane Lions,2,Gabba
+West Coast,Greater Western Sydney,61,49,West Coast,12,Perth Stadium
+Collingwood,North Melbourne,65,35,Collingwood,30,Gabba
+Hawthorn,Essendon,71,87,Essendon,16,Adelaide Oval
+Richmond,West Coast,88,61,Richmond,27,Carrara
+Western Bulldogs,Geelong,61,72,Geelong,11,Carrara
+Port Adelaide,Sydney,73,47,Port Adelaide,26,Adelaide Oval
+Fremantle,Greater Western Sydney,53,91,Greater Western Sydney,38,Perth Stadium
+Melbourne,St Kilda,52,49,Melbourne,3,Traeger Park
+Carlton,Collingwood,48,72,Collingwood,24,Gabba
+Gold Coast,North Melbourne,91,28,Gold Coast,63,Carrara
+Hawthorn,Adelaide,48,83,Adelaide,35,Adelaide Oval
+West Coast,Essendon,60,45,West Coast,15,Gabba
+Richmond,Fremantle,56,29,Richmond,27,Carrara
+Sydney,Melbourne,67,46,Sydney,21,Cazaly's Stadium
+Greater Western Sydney,Carlton,48,39,Greater Western Sydney,9,Carrara
+Brisbane Lions,Collingwood,42,34,Brisbane Lions,8,Gabba
+North Melbourne,Port Adelaide,42,78,Port Adelaide,36,Carrara
+St Kilda,Hawthorn,80,66,St Kilda,14,Carrara
+Geelong,Essendon,108,42,Geelong,66,Gabba
+Western Bulldogs,West Coast,49,47,Western Bulldogs,2,Carrara
+Melbourne,Fremantle,33,47,Fremantle,14,Cazaly's Stadium
+Adelaide,Greater Western Sydney,59,47,Adelaide,12,Adelaide Oval
+Carlton,Sydney,57,52,Carlton,5,Carrara
+Brisbane Lions,Gold Coast,88,43,Brisbane Lions,45,Gabba
+St Kilda,West Coast,50,65,West Coast,15,Gabba
+Geelong,Richmond,31,57,Richmond,26,Carrara
+North Melbourne,Fremantle,35,99,Fremantle,64,Carrara
+Port Adelaide,Essendon,79,29,Port Adelaide,50,Adelaide Oval
+Greater Western Sydney,Melbourne,74,79,Melbourne,5,Gabba
+Carlton,Adelaide,56,72,Adelaide,16,Carrara
+Hawthorn,Western Bulldogs,40,76,Western Bulldogs,36,Adelaide Oval
+Sydney,Brisbane Lions,41,73,Brisbane Lions,32,Cazaly's Stadium
+Collingwood,Gold Coast,68,46,Collingwood,22,Gabba
+North Melbourne,West Coast,34,49,West Coast,15,Carrara
+St Kilda,Greater Western Sydney,82,30,St Kilda,52,Gabba
+Essendon,Melbourne,49,68,Melbourne,19,Carrara
+Adelaide,Richmond,33,77,Richmond,44,Adelaide Oval
+Brisbane Lions,Carlton,78,61,Brisbane Lions,17,Gabba
+Hawthorn,Gold Coast,108,57,Hawthorn,51,Adelaide Oval
+Sydney,Geelong,63,69,Geelong,6,Carrara
+Fremantle,Western Bulldogs,44,74,Western Bulldogs,30,Cazaly's Stadium
+Collingwood,Port Adelaide,45,61,Port Adelaide,16,Gabba
+Port Adelaide,Geelong,58,42,Port Adelaide,16,Adelaide Oval
+Brisbane Lions,Richmond,69,54,Brisbane Lions,15,Gabba
+St Kilda,Western Bulldogs,67,64,St Kilda,3,Gabba
+West Coast,Collingwood,75,76,Collingwood,1,Perth Stadium
+Richmond,St Kilda,80,49,Richmond,31,Carrara
+Geelong,Collingwood,100,32,Geelong,68,Gabba
+Port Adelaide,Richmond,40,46,Richmond,6,Adelaide Oval
+Brisbane Lions,Geelong,42,82,Geelong,40,Gabba
+Richmond,Geelong,81,50,Richmond,31,Gabba

@@ -1,0 +1,85 @@
+team1,team2,score1,score2,winner,win_margin,venue
+South Melbourne,Collingwood,133,95,South Melbourne,38,Princes Park
+Essendon,Melbourne,164,110,Essendon,54,Windy Hill
+Fitzroy,St Kilda,97,72,Fitzroy,25,Brunswick St
+Richmond,Footscray,131,111,Richmond,20,Punt Rd
+Hawthorn,North Melbourne,93,127,North Melbourne,34,Glenferrie Oval
+Carlton,South Melbourne,59,99,South Melbourne,40,Princes Park
+Footscray,Essendon,88,92,Essendon,4,Yarraville Oval
+North Melbourne,Fitzroy,94,115,Fitzroy,21,Arden St
+St Kilda,Hawthorn,109,71,St Kilda,38,Toorak Park
+Melbourne,Richmond,117,196,Richmond,79,Punt Rd
+Essendon,Carlton,75,70,Essendon,5,Windy Hill
+Richmond,Collingwood,175,37,Richmond,138,Punt Rd
+Fitzroy,Melbourne,133,77,Fitzroy,56,Brunswick St
+Hawthorn,Footscray,41,117,Footscray,76,Glenferrie Oval
+South Melbourne,St Kilda,156,82,South Melbourne,74,Princes Park
+Carlton,Fitzroy,91,68,Carlton,23,Princes Park
+Collingwood,Essendon,87,136,Essendon,49,Victoria Park
+Melbourne,Hawthorn,111,65,Melbourne,46,Punt Rd
+North Melbourne,South Melbourne,80,65,North Melbourne,15,Arden St
+St Kilda,Richmond,83,163,Richmond,80,Toorak Park
+Richmond,Carlton,104,77,Richmond,27,Punt Rd
+Hawthorn,Collingwood,88,80,Hawthorn,8,Glenferrie Oval
+Essendon,North Melbourne,109,69,Essendon,40,Windy Hill
+Fitzroy,Footscray,79,83,Footscray,4,Brunswick St
+South Melbourne,Melbourne,148,115,South Melbourne,33,Princes Park
+Carlton,North Melbourne,138,91,Carlton,47,Princes Park
+Collingwood,Footscray,78,87,Footscray,9,Victoria Park
+Essendon,Richmond,77,76,Essendon,1,Windy Hill
+South Melbourne,Fitzroy,69,83,Fitzroy,14,Toorak Park
+Melbourne,St Kilda,45,89,St Kilda,44,Punt Rd
+Footscray,Carlton,91,72,Footscray,19,Yarraville Oval
+St Kilda,Collingwood,80,68,St Kilda,12,Toorak Park
+Fitzroy,Hawthorn,110,94,Fitzroy,16,Brunswick St
+North Melbourne,Melbourne,76,83,Melbourne,7,Arden St
+Richmond,South Melbourne,69,86,South Melbourne,17,Punt Rd
+Carlton,St Kilda,122,71,Carlton,51,Princes Park
+Melbourne,Collingwood,80,105,Collingwood,25,Punt Rd
+Essendon,Hawthorn,144,38,Essendon,106,Windy Hill
+Fitzroy,Richmond,81,105,Richmond,24,Brunswick St
+North Melbourne,Footscray,62,118,Footscray,56,Arden St
+Hawthorn,Carlton,58,86,Carlton,28,Glenferrie Oval
+Collingwood,Fitzroy,78,79,Fitzroy,1,Victoria Park
+St Kilda,Essendon,45,39,St Kilda,6,Toorak Park
+Footscray,South Melbourne,45,75,South Melbourne,30,Yarraville Oval
+Richmond,North Melbourne,80,77,Richmond,3,Punt Rd
+Carlton,Melbourne,95,67,Carlton,28,Princes Park
+North Melbourne,Collingwood,110,82,North Melbourne,28,Arden St
+Fitzroy,Essendon,82,107,Essendon,25,Brunswick St
+Footscray,St Kilda,131,60,Footscray,71,Yarraville Oval
+South Melbourne,Hawthorn,91,88,South Melbourne,3,Punt Rd
+Collingwood,Carlton,77,92,Carlton,15,Victoria Park
+Essendon,South Melbourne,75,55,Essendon,20,Windy Hill
+Melbourne,Footscray,95,126,Footscray,31,Punt Rd
+Hawthorn,Richmond,95,127,Richmond,32,Glenferrie Oval
+St Kilda,North Melbourne,135,62,St Kilda,73,Toorak Park
+Collingwood,South Melbourne,69,111,South Melbourne,42,Victoria Park
+Melbourne,Essendon,104,84,Melbourne,20,Punt Rd
+St Kilda,Fitzroy,73,86,Fitzroy,13,Toorak Park
+Footscray,Richmond,129,122,Footscray,7,Yarraville Oval
+North Melbourne,Hawthorn,64,52,North Melbourne,12,Arden St
+South Melbourne,Carlton,84,89,Carlton,5,Princes Park
+Essendon,Footscray,102,68,Essendon,34,Windy Hill
+Fitzroy,North Melbourne,134,68,Fitzroy,66,Brunswick St
+Hawthorn,St Kilda,57,75,St Kilda,18,Glenferrie Oval
+Richmond,Melbourne,111,86,Richmond,25,Punt Rd
+Carlton,Essendon,128,75,Carlton,53,Princes Park
+Collingwood,Richmond,83,117,Richmond,34,Victoria Park
+Melbourne,Fitzroy,85,68,Melbourne,17,Punt Rd
+Footscray,Hawthorn,137,58,Footscray,79,Yarraville Oval
+St Kilda,South Melbourne,46,89,South Melbourne,43,Toorak Park
+Fitzroy,Carlton,98,115,Carlton,17,Brunswick St
+Essendon,Collingwood,83,64,Essendon,19,Windy Hill
+Hawthorn,Melbourne,57,118,Melbourne,61,Glenferrie Oval
+South Melbourne,North Melbourne,145,87,South Melbourne,58,Princes Park
+Richmond,St Kilda,128,56,Richmond,72,Punt Rd
+Carlton,Richmond,127,74,Carlton,53,Princes Park
+Collingwood,Hawthorn,117,103,Collingwood,14,Victoria Park
+North Melbourne,Essendon,38,64,Essendon,26,Arden St
+Footscray,Fitzroy,129,92,Footscray,37,Yarraville Oval
+Melbourne,South Melbourne,91,107,South Melbourne,16,Punt Rd
+South Melbourne,Footscray,91,64,South Melbourne,27,Princes Park
+Essendon,Richmond,56,78,Richmond,22,Princes Park
+Essendon,South Melbourne,124,96,Essendon,28,Princes Park
+Essendon,Richmond,132,79,Essendon,53,Princes Park

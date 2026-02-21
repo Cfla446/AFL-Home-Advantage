@@ -1,0 +1,112 @@
+team1,team2,score1,score2,winner,win_margin,venue
+Fitzroy,Carlton,91,75,Fitzroy,16,Brunswick St
+Hawthorn,Collingwood,51,76,Collingwood,25,Glenferrie Oval
+Essendon,Footscray,105,54,Essendon,51,Windy Hill
+Geelong,North Melbourne,105,78,Geelong,27,Corio Oval
+South Melbourne,Melbourne,85,65,South Melbourne,20,Lake Oval
+Richmond,St Kilda,116,50,Richmond,66,Punt Rd
+Carlton,South Melbourne,75,113,South Melbourne,38,Princes Park
+Collingwood,Geelong,83,94,Geelong,11,Victoria Park
+North Melbourne,Essendon,96,113,Essendon,17,Arden St
+Footscray,Fitzroy,95,52,Footscray,43,Western Oval
+St Kilda,Hawthorn,115,82,St Kilda,33,Junction Oval
+Melbourne,Richmond,55,116,Richmond,61,Olympic Park
+Richmond,Carlton,83,84,Carlton,1,Punt Rd
+Essendon,Collingwood,110,119,Collingwood,9,Windy Hill
+Fitzroy,North Melbourne,94,113,North Melbourne,19,Brunswick St
+South Melbourne,Footscray,71,60,South Melbourne,11,Lake Oval
+Geelong,St Kilda,160,45,Geelong,115,Corio Oval
+Hawthorn,Melbourne,59,50,Hawthorn,9,Glenferrie Oval
+Carlton,Hawthorn,112,49,Carlton,63,Princes Park
+Collingwood,Fitzroy,106,75,Collingwood,31,Victoria Park
+St Kilda,Essendon,57,87,Essendon,30,Junction Oval
+Footscray,Richmond,48,51,Richmond,3,Western Oval
+Melbourne,Geelong,95,133,Geelong,38,Olympic Park
+North Melbourne,South Melbourne,70,73,South Melbourne,3,Arden St
+Carlton,Collingwood,93,73,Carlton,20,Princes Park
+South Melbourne,Essendon,99,65,South Melbourne,34,Lake Oval
+Fitzroy,Geelong,78,130,Geelong,52,Brunswick St
+Footscray,St Kilda,92,58,Footscray,34,Western Oval
+Richmond,Hawthorn,96,45,Richmond,51,Punt Rd
+North Melbourne,Melbourne,118,88,North Melbourne,30,Arden St
+Melbourne,Carlton,63,87,Carlton,24,Olympic Park
+Collingwood,Footscray,91,75,Collingwood,16,Victoria Park
+Essendon,Fitzroy,142,90,Essendon,52,Windy Hill
+Hawthorn,South Melbourne,80,109,South Melbourne,29,Glenferrie Oval
+St Kilda,North Melbourne,105,110,North Melbourne,5,Junction Oval
+Carlton,St Kilda,118,54,Carlton,64,Princes Park
+Collingwood,Melbourne,101,83,Collingwood,18,Victoria Park
+Hawthorn,Essendon,51,65,Essendon,14,Glenferrie Oval
+Richmond,Fitzroy,100,61,Richmond,39,Punt Rd
+North Melbourne,Footscray,62,91,Footscray,29,Arden St
+South Melbourne,Geelong,105,96,South Melbourne,9,Lake Oval
+North Melbourne,Carlton,73,100,Carlton,27,Arden St
+St Kilda,Collingwood,88,105,Collingwood,17,Junction Oval
+Geelong,Essendon,63,78,Essendon,15,Corio Oval
+Fitzroy,Hawthorn,93,63,Fitzroy,30,Brunswick St
+Footscray,Melbourne,67,27,Footscray,40,Western Oval
+Richmond,South Melbourne,55,57,South Melbourne,2,Punt Rd
+Carlton,Footscray,75,51,Carlton,24,Princes Park
+Collingwood,North Melbourne,126,87,Collingwood,39,Victoria Park
+Essendon,Richmond,42,80,Richmond,38,Windy Hill
+South Melbourne,Fitzroy,82,75,South Melbourne,7,Lake Oval
+Hawthorn,Geelong,54,95,Geelong,41,Glenferrie Oval
+Melbourne,St Kilda,85,74,Melbourne,11,M.C.G.
+Carlton,Essendon,142,77,Carlton,65,Princes Park
+Collingwood,Richmond,90,78,Collingwood,12,Victoria Park
+Melbourne,Fitzroy,102,90,Melbourne,12,M.C.G.
+Footscray,Geelong,57,56,Footscray,1,Western Oval
+North Melbourne,Hawthorn,106,59,North Melbourne,47,Arden St
+St Kilda,South Melbourne,69,70,South Melbourne,1,Junction Oval
+Geelong,Carlton,68,83,Carlton,15,Corio Oval
+South Melbourne,Collingwood,47,50,Collingwood,3,Lake Oval
+Essendon,Melbourne,50,53,Melbourne,3,Windy Hill
+Fitzroy,St Kilda,72,73,St Kilda,1,Brunswick St
+Hawthorn,Footscray,63,42,Hawthorn,21,Glenferrie Oval
+Richmond,North Melbourne,58,43,Richmond,15,Punt Rd
+Carlton,Fitzroy,129,84,Carlton,45,Princes Park
+Collingwood,Hawthorn,94,70,Collingwood,24,Victoria Park
+Footscray,Essendon,82,69,Footscray,13,Western Oval
+North Melbourne,Geelong,50,94,Geelong,44,Arden St
+Melbourne,South Melbourne,84,93,South Melbourne,9,M.C.G.
+St Kilda,Richmond,54,85,Richmond,31,Junction Oval
+South Melbourne,Carlton,80,89,Carlton,9,Lake Oval
+Geelong,Collingwood,95,70,Geelong,25,Corio Oval
+Essendon,North Melbourne,98,92,Essendon,6,Windy Hill
+Fitzroy,Footscray,49,74,Footscray,25,Brunswick St
+Hawthorn,St Kilda,61,50,Hawthorn,11,Glenferrie Oval
+Richmond,Melbourne,90,66,Richmond,24,Punt Rd
+Carlton,Richmond,86,91,Richmond,5,Princes Park
+Collingwood,Essendon,99,67,Collingwood,32,Victoria Park
+North Melbourne,Fitzroy,89,68,North Melbourne,21,Arden St
+Footscray,South Melbourne,80,68,Footscray,12,Western Oval
+St Kilda,Geelong,109,96,St Kilda,13,Junction Oval
+Melbourne,Hawthorn,76,72,Melbourne,4,M.C.G.
+Hawthorn,Carlton,62,84,Carlton,22,Glenferrie Oval
+Fitzroy,Collingwood,79,98,Collingwood,19,Brunswick St
+Essendon,St Kilda,97,58,Essendon,39,Windy Hill
+Richmond,Footscray,65,60,Richmond,5,Punt Rd
+Geelong,Melbourne,104,43,Geelong,61,Corio Oval
+South Melbourne,North Melbourne,67,35,South Melbourne,32,Lake Oval
+Collingwood,Carlton,79,125,Carlton,46,Victoria Park
+Essendon,South Melbourne,90,86,Essendon,4,Windy Hill
+Geelong,Fitzroy,168,54,Geelong,114,Corio Oval
+St Kilda,Footscray,65,71,Footscray,6,Junction Oval
+Hawthorn,Richmond,45,112,Richmond,67,Glenferrie Oval
+Melbourne,North Melbourne,93,118,North Melbourne,25,M.C.G.
+Carlton,Melbourne,105,63,Carlton,42,Princes Park
+Footscray,Collingwood,66,71,Collingwood,5,Western Oval
+Fitzroy,Essendon,89,52,Fitzroy,37,Brunswick St
+Richmond,Geelong,86,74,Richmond,12,Punt Rd
+South Melbourne,Hawthorn,157,34,South Melbourne,123,Lake Oval
+North Melbourne,St Kilda,105,85,North Melbourne,20,Arden St
+St Kilda,Carlton,54,141,Carlton,87,Junction Oval
+Melbourne,Collingwood,90,113,Collingwood,23,M.C.G.
+Essendon,Hawthorn,81,34,Essendon,47,Windy Hill
+Fitzroy,Richmond,67,95,Richmond,28,Brunswick St
+Footscray,North Melbourne,64,90,North Melbourne,26,Western Oval
+Geelong,South Melbourne,125,69,Geelong,56,Corio Oval
+Collingwood,South Melbourne,114,88,Collingwood,26,M.C.G.
+Carlton,Richmond,99,124,Richmond,25,M.C.G.
+Carlton,Collingwood,157,82,Carlton,75,M.C.G.
+Carlton,Richmond,83,92,Richmond,9,M.C.G.
